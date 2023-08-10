@@ -83,6 +83,10 @@ body{
     border-radius: 8px;
 }
 
+button:hover{
+    cursor: pointer;
+}
+
 .features-title{
     text-align: center;
     font-size: 36px;
